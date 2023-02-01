@@ -1,0 +1,19 @@
+onst linksList = [
+  {
+    title: 'Docs',
+    caption: 'quasar.dev',
+    icon: 'school',
+    link: 'https://quasar.dev'
+  },
+  {
+    title: 'Github',
+    caption: 'github.com/quasarframework',
+    icon: 'code',
+    link: '/'
+  },
+  {
+    title: 'Discord Chat Channel',
+    caption: 'chat.quasar.dev',
+    icon: 'chat',
+    link: 'https://chat.quasar.dev'
+  },
